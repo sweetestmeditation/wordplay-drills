@@ -1,4 +1,4 @@
-// run with node index.js sowpods.txt
+// run with node containsUU.js sowpods.txt
 
 // Make sure we got a filename on the command line.
 if (process.argv.length < 3) {
